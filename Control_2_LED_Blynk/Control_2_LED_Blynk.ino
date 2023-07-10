@@ -8,7 +8,7 @@
 // Template ID, Device Name and Auth Token are provided by the Blynk.Cloud
 #define BLYNK_TEMPLATE_ID "TMPL6STWmjAON"
 #define BLYNK_TEMPLATE_NAME "Control 2 LED"
-#define BLYNK_AUTH_TOKEN "EpFR_7p-YFfKoumXF6vMrkKD9VFY3f04"
+#define BLYNK_AUTH_TOKEN "EpFR_7p-YFfKoumXF6vMrkKD9VFY3f"
 
 #define BLYNK_PRINT Serial
 
@@ -19,8 +19,8 @@
 char auth[] = BLYNK_AUTH_TOKEN;
 
 // Your WiFi credentials.
-char ssid[] = "PIDI 4.0";
-char pass[] = "@industridigital4.0_oke";
+char ssid[] = "SSID";
+char pass[] = "pass";
 
 int D5 = 16;
 int D6 = 17;
