@@ -43,7 +43,7 @@ Make sure to consult the individual script's folder for specific setup instructi
 
 If you have any improvements or additional scripts that you would like to contribute, feel free to create a pull request. Contributions are always welcome and appreciated!
 
-## License
+## Feel free!
 
 
 We hope you find this repository useful and enjoy working with the Arduino IDE and ESP32 platform! If you have any questions or encounter any issues, please don't hesitate to open an issue in this repository.
