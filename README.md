@@ -1,7 +1,6 @@
 # iot-esp32
 # Arduino IDE Script Collection for ESP32
 
-![ESP32 Logo](esp32_logo.png)
 
 This repository contains a collection of Arduino IDE scripts specifically designed for ESP32 microcontrollers. These scripts enable you to easily implement various functionalities and projects using the ESP32 platform.
 
