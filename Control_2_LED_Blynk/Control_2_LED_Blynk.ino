@@ -19,8 +19,8 @@
 char auth[] = BLYNK_AUTH_TOKEN;
 
 // Your WiFi credentials.
-char ssid[] = "PIDI 4.0";
-char pass[] = "@industridigital4.0_oke";
+char ssid[] = "Redmi";
+char pass[] = "Galang@35";
 
 int D5 = 16;
 int D6 = 17;
