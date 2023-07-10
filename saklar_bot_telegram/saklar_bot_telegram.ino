@@ -6,7 +6,7 @@ CTBot myBot;
 
 String ssid = "PIDI 4.0";      // Enter ssid with your WiFi Network Name
 String pass = "@industridigital4.0_oke";   // Enter password with your WiFi Network Password
-String token = "5636831270:AAFBDs6iknnZ2h2d2LqUj2L2J5WNlVVq8gc";  // Enter token created by Telegram
+String token = "5636831270:AAFBDs6iknnZ2h2d2LqUj2L2J5WNlVVq8";  // Enter token created by Telegram
 
 const int BUILTIN_LED = 2;
 
